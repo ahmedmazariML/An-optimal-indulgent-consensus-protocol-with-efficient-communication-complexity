@@ -1,3 +1,5 @@
+# Master 2 final project at the university of Bejaia-Algeria
+
 # An-Optimal-Indulgent-Consensus-Protocol-with-Efficient-Communication-Complexity
 This master thesis in computer science by research in the area of distributed systems and networking presents works and 
 recent results obtained in the domain of asynchronous distributed systems based upon consensus problem. The study aims to 
